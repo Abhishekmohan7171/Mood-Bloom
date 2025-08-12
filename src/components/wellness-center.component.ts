@@ -115,7 +115,7 @@ import { Affirmation, WellnessRecommendation } from '../models/mood.interface';
                 <strong>National Suicide Prevention Lifeline:</strong> 988
               </p>
               <p class="text-red-700 dark:text-red-300">
-                <strong>Crisis Text Line:</strong> Text HOME to 741741
+                <strong>AASRA (24x7 Helpline):</strong> +91-9820466726
               </p>
             </div>
           </div>
